@@ -53,8 +53,7 @@ YepFast 是典型的月付订阅型高速网络服务，**<span style="color:red
 ### 💰 支付方式：
 支付宝，微信，USDT等。
 
-**链接：** 
-[直达官网入口](https://43.129.207.58:8000/register?aff=X5tCAsvJ)
+**链接：**  
 [直达官网入口1](https://43.129.78.33:8000/register?aff=X5tCAsvJ)
 [直达官网入口2](https://47.242.128.61:8000/register?aff=X5tCAsvJ)
 
